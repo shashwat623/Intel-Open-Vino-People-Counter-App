@@ -1,15 +1,4 @@
-= OpenVino For People Counter
-:idprefix:
-:idseparator: -
-:sectanchors:
-:sectlinks:
-:sectnumlevels: 6
-:sectnums:
-:toc: macro
-:toclevels: 6
-:toc-title: Table of Contents
 
-toc::[]
 
 == Introduction
 
