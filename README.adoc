@@ -232,19 +232,4 @@ python3 main.py -i ../resources/Pedestrian_Detect_2_1_1.mp4 -m ../openvino-peopl
 
 This implementation gives *90 FPS* on the same hardware.
 
-== To Do
-
-=== README
-
-* [x] docker compose for deployment
-* [x] Performance analysis
-
-=== Development
-
-* [x] Try with different models
-* [x] Kalman filter based tracking
-* [x] dlib based tracking
-* [x] Fix labels issue
-* [x] supermarket use cases
-* [x] async with multithread implementation
 
